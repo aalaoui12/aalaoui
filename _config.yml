@@ -21,7 +21,7 @@
 title: Ali Alaoui
 email: aalaoui2001@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  If you want to learn more about Ali, check this out.
+  Ali's Website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://aalaoui.me" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: alaouis
