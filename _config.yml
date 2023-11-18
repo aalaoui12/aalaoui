@@ -28,6 +28,9 @@ linkedin_username: alaouis
 twitter_username: alialaouis
 github_username:  aalaoui12
 
+# Google Analytics
+google_analytics: G-8BMM008K4F
+
 # Build settings
 theme: minima
 plugins:
