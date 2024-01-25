@@ -28,7 +28,15 @@ body {
   flex-direction: column;
 }
 
-
+/*
+* Captions
+*/
+img + em {
+  display: block;
+  text-align: center;
+  opacity: 0.5;
+  font-size: small;
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
